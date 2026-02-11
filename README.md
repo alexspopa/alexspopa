@@ -25,9 +25,9 @@ Credo nell'ottimizzazione del workflow e nel controllo totale del proprio ambien
 
 ---
 
-### 📊 42 Cursus Progress
+### 🏫 Campus
 
-[![42 Stats](https://github-readme-42-stats.vercel.app/api/v1/spopa?cursus=42cursus&mode=compact&theme=tokyonight)](https://github.com/alexspopa)
+![42 Firenze](https://img.shields.io/badge/42-Firenze-000000?style=for-the-badge&logo=42&logoColor=white)
 
 ---
 
