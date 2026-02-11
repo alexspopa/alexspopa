@@ -3,7 +3,7 @@
 Sono uno studente di **42 Firenze**.
 Il mio background nasce dalla programmazione di sistema in **C** (gestione memoria, puntatori, Unix philosophy), ma il mio focus attuale si è spostato sull'ingegneria dei dati, **Python** e l'integrazione di **LLM**.
 
-Credo nell'ottimizzazione del workflow e nel controllo totale del proprio ambiente di sviluppo (sì, uso Arch/CachyOS).
+Credo nell'ottimizzazione del workflow e nel controllo totale del proprio ambiente di sviluppo (I use Arch btw).
 
 ---
 
