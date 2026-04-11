@@ -27,7 +27,7 @@ Credo nell'ottimizzazione del workflow e nel controllo totale del proprio ambien
 
 ### 📊 42 Cursus Status
 
-![42 Level](https://img.shields.io/badge/Cursus_Level-2.76-%2300babc?style=for-the-badge&logo=42&logoColor=white)
+![42 Level](https://img.shields.io/badge/Cursus_Level-3.19-%2300babc?style=for-the-badge&logo=42&logoColor=white)
 
 ---
 
